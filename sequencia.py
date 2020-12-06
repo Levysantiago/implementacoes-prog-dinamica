@@ -26,7 +26,6 @@ def sequencia(a, b, sizeA, sizeB):
                         b[j] = None
         a[i] = None
     
-    print(count)
     finalSeq.sort()
     finalList = []
     for item in finalSeq:
